@@ -37,4 +37,4 @@ I imported the .csv file into Google Sheets and used the function `=IMPORTXML(UR
 </br></br>
 As a result, I obtained the text that I used to look for videos that may be relevant (i.e. videos including the terms <i>pronoun</i> or <i>neopronoun</i>, or a construction in the format [neopronoun]/[neopronoun]). To do that, I used the function `=IF(ISNUMBER(SEARCH(search_for, text_to_search)), "Yes", "No")`, which allowed me to search for said instances in the retrieved text and to filter out videos that did not include any of those keywords.
 </br></br>
-Once I filtered the videos, I downloaded them using [JDownloader 2](https://jdownloader.org/), simply copying the list of URLs and pasting it into the LinkGrabber. For this to work, it is crucial to have the TikTok plugin activated in the settings.
+Once I filtered the videos, I downloaded them using [JDownloader 2](https://jdownloader.org/), simply copying the list of URLs and pasting them into the LinkGrabber. For this to work, it is crucial to have the TikTok plugin activated in the settings.
