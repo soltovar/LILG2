@@ -1,8 +1,7 @@
 # About this repository
 The following repository collects supplementary material to my talk <b>“Today I'm gonna show you how to use <i>beep/boop</i> pronouns”: viral TikToks, neopronouns and folk linguistic pedagogy</b> at the conference <b>Linguistic Intersections of Language and Gender 2</b> on August 13, 2025.
 ## About the corpus
-The corpus consists of ca. 600 short-form videos from a popular creator spanning from late 2020 to early 2025, which included the terms pronoun or neopronoun, or a construction in the format [neopronoun]/[neopronoun] (as in the case of beep/boop) in their video description. </br>
-More detailed information can be found in the [/corpus](/corpus) directory
+The corpus consists of ca. 600 short-form videos from a popular creator spanning from late 2020 to early 2025, which included the terms pronoun or neopronoun, or a construction in the format [neopronoun]/[neopronoun] (as in the case of beep/boop) in their video description.
 ## Tools used to compile and analyse the corpus
 ### Data collection
 :floppy_disk:  JavaScript scripts from [Responsive Muse](https://responsive-muse.com/export-tiktok-channel-video-titles-urls-using-javascript/)</br>
