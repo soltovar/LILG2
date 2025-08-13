@@ -12,5 +12,6 @@ For the automated transcription of the videos, I used Whisper on a Google Colab 
 :link: [OpenAI's Whisper](https://github.com/openai/whisper "openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision")
 ### (Preliminary) data analysis
 I searched for n-grams with different window sizes and their corresponding KWIC analyses in :ant:[AntConc](https://www.laurenceanthony.net/software/antconc/) to identify repeating patterns.
-<br></br>
+<br>
+BERT was used for sentiment analysis and Librosa for auditory analysis</br>
 More detailed information can be found in the [/tools](/tools) directory
